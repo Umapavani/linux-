@@ -20,6 +20,7 @@ sudo apt-get upgrade
 Creating grader User:
 sudo adduser grader
 This will add new user
+password:pavs
 
 sudo nano /etc/sudoers
 Below the Root user append the following line
